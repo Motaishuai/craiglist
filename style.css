@@ -1,0 +1,205 @@
+* {
+    padding: 2px;
+    margin: 2px;
+    box-sizing: border-box;
+}
+
+html{
+    width: 1000px;
+}
+
+
+
+#container {
+    
+    background-color: rgb(233, 231, 231);
+    width: 880px;
+    margin: auto;
+    height: 790px;
+    padding: auto;
+
+}
+
+.first  {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+
+.header {
+    font-size: 30px;
+}
+
+.header1 {
+    background-color: silver;
+    width: 300px;
+    height: 38px;
+    font-size: 30px;
+    padding: 2px;
+
+}
+
+.header3 {
+    margin-left: 2px;
+    margin-right: 40px;
+
+}
+
+.header2 {
+    margin-right: -130px;
+}
+
+#msidebar {
+    background-color: rgb(212, 207, 207);
+    position: absolute;
+    left: 130px;
+    top: 90px;
+    display: flex;
+    flex-flow: row;
+    height: 600px;
+    padding: 4px;
+    margin-left: -50px;
+    padding-left: 0%;
+}
+
+.main  {
+    margin-top: 70px;
+    margin-left: -160px;
+    background-color: silver;
+    height: 90px;
+   
+}
+
+.main input {
+    width: 100px;
+}
+
+.sc {
+    background-color: rgb(233, 231, 231);
+
+}
+
+.linkfirstside {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    text-align: center;
+}
+
+h6 {
+    background-color:  rgb(233, 231, 231);
+}
+
+.event {
+    display: flex;
+    flex-direction: column;
+    margin-left: 225px;
+    margin-top:32px ;
+    background-color: white;
+    width: 165px;
+    
+}
+
+.event p1 {
+    background-color:rgb(233, 231, 231) ;
+    font-weight: bold;
+}
+
+.personals {
+    display: flex;
+    flex-direction: column;
+    margin-left: 225px;
+    background-color: white;
+    width: 165px;
+    margin-top: 7px;
+
+}
+
+.personals p1 {
+    background-color:rgb(233, 231, 231) ;
+    font-weight: bold;
+    
+}
+
+.person {
+    display: flex;
+    flex-direction: column;
+    margin-left: 225px;
+    background-color: white;
+    width: 165px;
+    margin-top: 10px;
+}
+
+.disscusion  {
+    display: flex;
+    flex-direction: column;
+    margin-left: 225px;
+    margin-top: 30px;
+    font-weight: bold;
+
+}
+
+.housing {
+    display: flex;
+    flex-direction: column;
+    margin-left: 439px;
+    margin-top: -525px;
+    background-color: white;
+    width: 165px;
+}
+
+.housing p1 {
+    background-color:rgb(233, 231, 231) ;
+    font-weight: bold;
+
+}
+
+.sale {
+    display: flex;
+    flex-direction: column;
+    margin-left: 439px;
+    margin-top: 8px;
+    background-color: white;
+    width: 165px;
+}
+
+.sale p1 {
+    background-color:rgb(233, 231, 231) ;
+    font-weight: bold;
+
+}
+
+.resumes {
+    display: flex;
+    flex-direction: column;
+    margin-left: 439px;
+    margin-top: 30px;
+    font-weight: bold;
+    
+}
+
+.free {
+    display: flex;
+    flex-direction: column;
+    margin-left: 439px;
+    margin-top: 1px;
+    
+}
+
+.jobs {
+    display: flex;
+    flex-direction: column;
+    margin-left: 660px;
+    margin-top: 8px;
+    background-color: white;
+    width: 165px;
+    margin-top: -536px;
+
+}
+
+.jobs p1 {
+    background-color:rgb(233, 231, 231) ;
+    font-weight: bold;
+}
+
